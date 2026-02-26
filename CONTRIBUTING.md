@@ -10,11 +10,12 @@ We use the GitHub issue tracker to keep track of bugs, feature requests, and oth
 
 ## Branch Naming
 
-When creating branches for your contributions, please follow the following naming convention:
+When creating branches for your contributions, please follow these naming conventions based on the type of work:
 
-`feat/<feature-name>`
+- `feat/<feature-name>` for new features or enhancements
+- `fix/<bug-name>` for bug fixes
 
-For example, if you are working on a feature related to adding a new component, your branch name could be `feat/fix-x-component`. This naming convention helps us to easily track and associate contributions with their respective features.
+For example, if you are working on a new component, your branch name could be `feat/new-hero-component`, and if you are fixing a bug, `fix/button-hover-state`. This naming convention helps us to easily track and associate contributions with their respective changes.
 
 ## Pull Requests
 
